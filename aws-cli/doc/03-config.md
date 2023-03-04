@@ -1,0 +1,6 @@
+
+# AWS CONFIGURE
+
+    -
+     
+    $ aws configure
