@@ -1,7 +1,7 @@
 
 # AWS CLI INSTALL
 
-https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+1. https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 
 ## LINUX 
